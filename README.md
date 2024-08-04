@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @reaksacode21
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning FontEnd and BackEnd
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-reaksacode21/reaksacode21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello my name is REAKSA.I ready injoy learning language and faramwork like React and vue.
