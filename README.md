@@ -1,4 +1,4 @@
-# 💫 RA REAKSA:
+# 💫 RA REAKSA
 
 ![Image](https://media.geeksforgeeks.org/wp-content/uploads/20231205165904/web-development-image.webp)
 Hello,My name is reaksa.I am a computer science student.
